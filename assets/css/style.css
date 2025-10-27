@@ -126,7 +126,7 @@ header nav a {
     height: 400px;
     padding-inline: 1.5rem;
 
-    background-image: url("assets/img/darth-mobile.png");
+    background-image: url("../assets/img/darth-mobile.png");
     background-repeat: no-repeat;
     background-position: rem;
     background-size: 300px;
